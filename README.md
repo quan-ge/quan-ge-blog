@@ -1,4 +1,4 @@
-# QUAN的个人博客 :link: [https://quan6-6.github.io/quan.github.io](https://quan.120322.xyz/) 
+# QUAN的个人博客 :link: https://quan.120322.xyz/ 
 ### :page_facing_up: [2](https://quan6-6.github.io/quan.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 537 
