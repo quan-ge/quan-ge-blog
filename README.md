@@ -1,6 +1,6 @@
-# QUAN的个人博客 :link: https://quan6-6.github.io/quan.github.io 
-### :page_facing_up: [2](https://quan6-6.github.io/quan.github.io/tag.html) 
+# QUAN的个人博客 :link: https://quan6-6.github.io/quan-ge 
+### :page_facing_up: [3](https://quan6-6.github.io/quan-ge/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 804 
-### :alarm_clock: 2024-07-15 22:23:37 
+### :hibiscus: 1184 
+### :alarm_clock: 2024-07-15 22:28:36 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
