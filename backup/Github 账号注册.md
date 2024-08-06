@@ -76,8 +76,8 @@ B：自己问百度。
 A：看了也不会怎么办？
 B：凉拌炒鸡蛋
 
-3.
+<del>3.
 A：鸡蛋怎么凉拌？
-B：滚！
+B：滚！</del>
 
 <!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
