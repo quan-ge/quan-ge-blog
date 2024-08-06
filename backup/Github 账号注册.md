@@ -55,6 +55,6 @@
 这就非常简单了。
 
 先下滑找到评论区，然后点那个大大的绿色按钮。
-`Gmeek-html<img src="https://quan.120322.xyz/200">`
+`Gmeek-html<img src="https://quan.120322.xyz/#9 -2">`
 
 <!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
