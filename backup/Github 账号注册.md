@@ -24,12 +24,17 @@
 
 视频中讲到了代理和VPN两种方法，因为VPN并不合法，所以这里不做推荐。
 我推荐使用 Watt Toolkit ，此应用是合法合规的，并且支持全平台。
-[点击跳转官网](https://steampp.net/)
+[点击蓝字跳转官网](https://steampp.net/)
 
 具体教程自己搜索
 
 ## 账号注册
 
+1.  GitHub是一个面向开源及私有软件项目的托管平台，[点击蓝字跳转官网。](https://github.com/)
 
+2.  点击右上角 sign up  前往注册界面
+`Gmeek-html<iframe src="https://quan.120322.xyz/#9 -1" width="100%" height="460px" frameborder="0" allowfullscreen="true"></iframe>`
+
+4.  
 
 <!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
