@@ -1,5 +1,5 @@
 > [!WARNING]
->提示，本文没有写完，你想看也行，但是不推荐。
+>提示，本文没有写完，你想看也行。
 
 ## 开篇废话
 
@@ -35,6 +35,12 @@
 2.  点击右上角 sign up  前往注册界面
 `Gmeek-html<iframe src="https://quan.120322.xyz/#9 -1" width="100%" height="460px" frameborder="0" allowfullscreen="true"></iframe>`
 
-4.  
+4.  起一个你的用户名，点确定。
+
+     填你的邮箱，一定要能正常收邮件，不要用公共邮箱。
+
+     然后设置一个密码，要能记得住。
+
+
 
 <!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
