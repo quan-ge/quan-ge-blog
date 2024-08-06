@@ -33,14 +33,28 @@
 1.  GitHub是一个面向开源及私有软件项目的托管平台，[点击蓝字跳转官网。](https://github.com/)
 
 2.  点击右上角 sign up  前往注册界面
-`Gmeek-html<iframe src="https://quan.120322.xyz/#9 -1" width="100%" height="460px" frameborder="0" allowfullscreen="true"></iframe>`
+`Gmeek-html<img src="https://quan.120322.xyz/#9 -1">`
 
 4.  起一个你的用户名，点确定。
 
      填你的邮箱，一定要能正常收邮件，不要用公共邮箱。
 
+
      然后设置一个密码，要能记得住。
 
+     最后会发你一个邮件，把邮件里面的六位数字填到网页里，
+     然后人机验证。
 
+     再填一下基本信息就ok了，不填直接退出来也行。
+
+     这里我没有截图，大家可以看一看 [墨抒颖 的文章](https://www.cnblogs.com/moshuying/p/15367181.html)
+
+## 登录到博客。
+
+有了账号还需要将这个账号登录到我的博客上。
+这就非常简单了。
+
+先下滑找到评论区，然后点那个大大的绿色按钮。
+`Gmeek-html<img src="https://quan.120322.xyz/200">`
 
 <!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
