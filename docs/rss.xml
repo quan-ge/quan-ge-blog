@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>QUAN的博客</title><link>http://quan.120322.xyz</link><description>梦想不会自动实现，行动才是开始。🎉</description><copyright>QUAN的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://quan.120322.xyz/quan.jpg</url><title>avatar</title><link>http://quan.120322.xyz</link></image><lastBuildDate>Mon, 05 Aug 2024 09:24:05 +0000</lastBuildDate><managingEditor>QUAN的博客</managingEditor><ttl>60</ttl><webMaster>QUAN的博客</webMaster><item><title>Github 账号注册</title><link>http://quan.120322.xyz/post/Github%20-zhang-hao-zhu-ce.html</link><description>&gt; [!WARNING]&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>QUAN的博客</title><link>http://quan.120322.xyz</link><description>梦想不会自动实现，行动才是开始。🎉</description><copyright>QUAN的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://quan.120322.xyz/quan.jpg</url><title>avatar</title><link>http://quan.120322.xyz</link></image><lastBuildDate>Tue, 06 Aug 2024 00:16:02 +0000</lastBuildDate><managingEditor>QUAN的博客</managingEditor><ttl>60</ttl><webMaster>QUAN的博客</webMaster><item><title>Github 账号注册</title><link>http://quan.120322.xyz/post/Github%20-zhang-hao-zhu-ce.html</link><description>&gt; [!WARNING]&#13;
 &gt;提示，本文没有写完，你想看也行，但是不推荐。</description><guid isPermaLink="true">http://quan.120322.xyz/post/Github%20-zhang-hao-zhu-ce.html</guid><pubDate>Mon, 05 Aug 2024 01:47:22 +0000</pubDate></item><item><title>天气真离谱……</title><link>http://quan.120322.xyz/post/tian-qi-zhen-li-pu-%E2%80%A6%E2%80%A6.html</link><description>### 天气真离谱……&#13;
 &#13;
 这天气是 &lt;del&gt;太凉快了&lt;/del&gt; 真TM的热。</description><guid isPermaLink="true">http://quan.120322.xyz/post/tian-qi-zhen-li-pu-%E2%80%A6%E2%80%A6.html</guid><pubDate>Sun, 04 Aug 2024 07:45:05 +0000</pubDate></item><item><title>docker源镜像加速方案</title><link>http://quan.120322.xyz/post/docker-yuan-jing-xiang-jia-su-fang-an.html</link><description>因为众所周知的原因，Docker的国内镜像站几乎全部关闭。</description><guid isPermaLink="true">http://quan.120322.xyz/post/docker-yuan-jing-xiang-jia-su-fang-an.html</guid><pubDate>Wed, 31 Jul 2024 10:37:25 +0000</pubDate></item><item><title>主页2.0</title><link>http://quan.120322.xyz/post/zhu-ye-2.0.html</link><description>之前做的主页实在是太丑了，&#13;
@@ -36,6 +36,17 @@ https://[day-night-toggle-button-preview.120322.xyz](https://day-night-toggle-bu
 作者B站视频：&#13;
 [点击跳转](https://www.bilibili.com/video/BV1N44y1c7um/?vd_source=2152fcb6c36b2bebb36184c43a243d0f]  '作者B站视频')&#13;
 `Gmeek-html&lt;iframe src='//player.bilibili.com/player.html?isOutside=true&amp;aid=999619023&amp;bvid=BV1N44y1c7um&amp;cid=1229130081&amp;p=1&amp;autoplay=0' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true' width='100%' height='460px'&gt;&lt;/iframe&gt;`&#13;
+&#13;
+##  两天后&#13;
+&#13;
+花了亿点时间，把按钮做成了一个网页&#13;
+下面可以体验&#13;
+[点击跳转](https://day-night-toggle-button-preview.120322.xyz/  '纯享版链接')&#13;
+看着还可以，就是一直没办法加到博客的页面里&#13;
+还是要学HTML开发，可是没时间&#13;
+&#13;
+在学了🙏&#13;
+&#13;
 &#13;
 &gt; [!TIP]&#13;
 &gt; 如有侵权请联系删除。</description><guid isPermaLink="true">http://quan.120322.xyz/post/bai-tian---hei-ye-qie-huan-an-niu.html</guid><pubDate>Mon, 15 Jul 2024 05:11:44 +0000</pubDate></item><item><title>👏欢迎来到我的个人博客</title><link>http://quan.120322.xyz/post/%F0%9F%91%8F-huan-ying-lai-dao-wo-de-ge-ren-bo-ke.html</link><description>测试&#13;
