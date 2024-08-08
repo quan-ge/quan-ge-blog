@@ -22,3 +22,16 @@
 
 ### 3.右下角版本TOC目录
 插件名 articletoc
+插件作者 Tiengming
+插件地址
+' https://blog.meekdai.com/Gmeek/plugins/articletoc.js '
+
+
+### 未知
+插件名 Gmeek-Theme
+插件作者 思哥
+插件地址
+' https://blog.sigechaishijie.us.kg/themes/Gmeek_theme.js '
+话说我也不知道它是干什么的
+
+<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
