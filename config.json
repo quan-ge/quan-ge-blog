@@ -8,7 +8,7 @@
     "homeUrl":"http://quan.120322.xyz",
     "needComment":1,
     "script":"<script>document.getElementById('cmButton').click();</script>",
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><script src='https://blog.liyifan.xyz/assets/copy.js'></script>"
 }
 
 
