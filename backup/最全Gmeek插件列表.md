@@ -3,7 +3,9 @@
 对了，欢迎大家补充。
 重要的一项：文章我没写完！！！
 除特殊备注，使用只需要在config.json文件内添加配置
-' "allHead":"<script src='插件地址'></script>" '
+' "script":"<script src='插件地址'></script>" '
+单篇文章使用在文末添加
+' <!-- ##{"script":"<script src='插件地址'></script>"}## --> '
 
 # 正文
 
@@ -26,8 +28,13 @@
 插件地址
 ' https://blog.meekdai.com/Gmeek/plugins/articletoc.js '
 
+### 4.图片点击放大：灯箱插件
+插件名 灯箱
+作者 Tiengming
+插件地址
+' https://blog.meekdai.com/Gmeek/plugins/lightbox.js '
 
-### 未知
+### 5.未知
 插件名 Gmeek-Theme
 插件作者 思哥
 插件地址
