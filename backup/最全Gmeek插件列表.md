@@ -1,0 +1,24 @@
+## 开篇废话
+我跟你说，没人能比我全。
+对了，欢迎大家补充。
+重要的一项：文章我没写完！！！
+除特殊备注，使用只需要在config.json文件内添加配置
+' "allHead":"<script src='插件地址'></script>" '
+
+# 正文
+
+### 1.访问次数记录
+插件名 Vercount
+插件作者 eekdai / Blowfish
+插件地址
+' https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script> '
+
+### 2.TOC目录
+插件名 TOC目录
+插件作者 未知
+插件地址
+' https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js '
+如果是平板或者手机目录会显示在文章开头，如果是电脑会显示在文章右侧。
+
+### 3.右下角版本TOC目录
+插件名 articletoc
