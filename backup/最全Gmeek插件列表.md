@@ -6,10 +6,13 @@
 
 除特殊备注过外，
 使用只需要在config.json文件内添加配置
-' "script":"<script src='插件地址'></script>" '
+```
+"script":"<script src='插件地址'></script>"
+```
 单篇文章使用在文末添加
-' <!-- ##{"script":"<script src='插件地址'></script>"}## --> '
-
+```
+<!-- ##{"script":"<script src='插件地址'></script>"}## -->
+```
 # 正文
 
 ### 1.访问次数记录
