@@ -8,7 +8,7 @@
     "homeUrl":"http://quan.120322.xyz",
     "needComment":1,
     "script":"<script>document.getElementById('cmButton').click();</script>",
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><script src='https://blog.liyifan.xyz/assets/copy.js'></script>"
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><script src='https://quan.120322.xyz/js/backtop.js'></script><script src='https://blog.liyifan.xyz/assets/copy.js'></script>"
 }
-
+// 最后四个插件_第一个是自动展开评论区_第三个是一键返回顶部
 
