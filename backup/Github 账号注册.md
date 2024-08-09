@@ -80,4 +80,4 @@ B：凉拌炒鸡蛋
 A：鸡蛋怎么凉拌？
 B：滚！</del>
 
-<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
+<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"}## -->
