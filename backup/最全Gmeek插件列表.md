@@ -1,9 +1,10 @@
-## 开篇废话
+# 开头
 我跟你说，没人能比我全。
-对了，欢迎大家补充。
+欢迎大家补充。
+[liyifanniubi](https://github.com/liyifanniubi/liyifanniubi.github.io/tree/main/static/assets)老哥的插件太多了，看了一下大部分是他博客的美化插件，我就不写了。大家可以自己去看一下。
+大家也可以去看一下[官方的推荐插件](https://blog.meekdai.com/post/%E3%80%90Gmeek-jin-jie-%E3%80%91-cha-jian-gong-neng-de-shi-yong.html)，讲的比我详细些。
 
-重要的一项：文章我没写完！！！
-
+## 使用方法
 除特殊备注过外，
 使用只需要在config.json文件内添加配置
 ```
