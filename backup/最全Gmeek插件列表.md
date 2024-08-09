@@ -67,4 +67,11 @@
 `https://code.buxiantang.top/assets/codecopy.js`
 我才刚开始学前端，看不懂这是啥，知道的说一下，谢了
 
+### 8.未知
+插件名 pagination
+插件作者 Tiengming
+插件地址
+`https://code.buxiantang.top/assets/pagination.js`
+这个我就更看不懂了，好像是首页分页？
+
 <!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"}## -->
