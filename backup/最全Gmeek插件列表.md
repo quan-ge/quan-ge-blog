@@ -20,6 +20,7 @@
 插件作者 eekdai / Blowfish
 插件地址
 `https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js`
+会在网页下方显示访问次数
 
 ### 2.TOC目录
 插件名 TOC目录
@@ -41,20 +42,29 @@
 插件地址
 `https://blog.meekdai.com/Gmeek/plugins/lightbox.js`
 `https://code.buxiantang.top/assets/lightbox.js`
+真的不推荐全局安装，没太大意义。
+可以给一些单独的文章安装这个插件。
 
-
-### 5.未知
-插件名 Gmeek-Theme
-插件作者 思哥
+### 5.博客首页分页
+插件名 pagination
+插件作者 Tiengming
 插件地址
-`https://blog.sigechaishijie.us.kg/themes/Gmeek_theme.js`
-话说我也不知道它是干什么的
+`https://code.buxiantang.top/assets/pagination.js`
+这个插件应该是把博客的文章列表分成一页一页的，gmeek官方博客用的。
 
 ###  6.一键返回顶部
 插件名 backtop
 插件作者 Tiengming
 插件地址
 `https://code.buxiantang.top/assets/backtop.js`
-`https://quan.120322.xyz/js_assnd/backtop.js`
+`https://quan.120322.xyz/js/backtop.js`
+说真的，我用了这个插件，结果没有显示。
+
+### 7.复制按钮（可能）
+插件名 codecopy
+插件作者 Tiengming
+插件地址
+`https://code.buxiantang.top/assets/codecopy.js`
+我才刚开始学前端，看不懂这是啥，知道的说一下，谢了
 
 <!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"}## -->
