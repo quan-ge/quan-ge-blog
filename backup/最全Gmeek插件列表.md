@@ -76,5 +76,3 @@
 插件地址
 `https://code.buxiantang.top/assets/pagination.js`
 这个我就更看不懂了，好像是首页分页？
-
-<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"}## -->
