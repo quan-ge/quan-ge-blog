@@ -1,5 +1,5 @@
 # 开头
-我跟你说，没人能比我全。
+史上最全。
 欢迎大家补充。
 
 [liyifanniubi](https://github.com/liyifanniubi/liyifanniubi.github.io/tree/main/static/assets)老哥的插件太多了，看了一下大部分是他博客的美化插件，我就不写了。大家可以自己去看一下。
