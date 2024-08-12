@@ -7,8 +7,12 @@
 也可以去看一下[官方的推荐插件](https://blog.meekdai.com/post/%E3%80%90Gmeek-jin-jie-%E3%80%91-cha-jian-gong-neng-de-shi-yong.html)，讲的比我详细些。
 
 ## 使用方法
-除特殊备注过外，
-使用只需要在config.json文件内添加配置
+gmeek插件本身实际上就是js脚本
+只要会web开发，就一定会写插件
+不过可怜的是我才刚把css学完(24年8月12号)
+
+如果要使用插件，除特殊备注过外，
+只需要在config.json文件内添加配置
 ```
 "script":"<script src='插件地址'></script>"
 ```
