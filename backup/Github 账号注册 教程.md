@@ -54,7 +54,7 @@
 这就非常简单了。
 
 先下滑找到评论区，然后点那个大大的绿色按钮。
-`Gmeek-html<img src="https://quan.120322.xyz/9-2.jpg">`
+`Gmeek-html<img src="https://quan.120322.xyz/image/9-2.jpg">`
 
 然后可能会弹出一个页面，问你是否同意，点绿色的就ok了。
 我以前点过就没有弹出来。
