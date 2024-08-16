@@ -32,7 +32,7 @@
 1.  GitHub是一个面向开源及私有软件项目的托管平台，[点击蓝字跳转官网。](https://github.com/)
 
 2.  点击右上角 sign up  前往注册界面
-`Gmeek-html<img src="https://quan.120322.xyz/9-1.png">`
+`Gmeek-html<img src="https://quan.120322.xyz/image/9-1.png">`
 
 4.  起一个你的用户名，点确定。
 
