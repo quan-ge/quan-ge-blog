@@ -2,11 +2,10 @@
     "title":"QUAN的博客",
     "subTitle":"梦想不会自动实现，行动才是开始。🎉",
     "avatarUrl":"https://quan.120322.xyz/quan.jpg",
-    "bottomText":"❤️图片可能加载较慢。❤️转载请注明出处！❤️",
+    "bottomText":"❤️图片可能加载较慢。❤️转载请注明出处！",
     "i18n":"CN",
     "GMEEK_VERSION":"last",
     "homeUrl":"http://quan.120322.xyz",
-    "needComment":1,
     "script":"<script>document.getElementById('cmButton').click();</script>",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>'>"
 }
