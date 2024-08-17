@@ -32,7 +32,7 @@
 1.  GitHub是一个面向开源及私有软件项目的托管平台，[点击蓝字跳转官网。](https://github.com/)
 
 2.  点击右上角 sign up  前往注册界面
-`Gmeek-html<img src="https://quan.120322.xyz/image/9-1.png">`
+`Gmeek-html<img src="https://gitee.com/quan_ge/picture-bed/raw/master/9-1.png">`
 
 4.  起一个你的用户名，点确定。
 
@@ -54,7 +54,7 @@
 这就非常简单了。
 
 先下滑找到评论区，然后点那个大大的绿色按钮。
-`Gmeek-html<img src="https://quan.120322.xyz/image/9-2.jpg">`
+`Gmeek-html<img src="https://gitee.com/quan_ge/picture-bed/raw/master/9-2.jpg">`
 
 然后可能会弹出一个页面，问你是否同意，点绿色的就ok了。
 我以前点过就没有弹出来。
