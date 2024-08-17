@@ -42,6 +42,7 @@ gmeek插件本身实际上就是js脚本
 插件地址
 `https://blog.meekdai.com/Gmeek/plugins/articletoc.js`
 `https://code.buxiantang.top/assets/articletoc.js`
+你可以看到本页面就使用了插件
 
 ### 4.图片点击放大：灯箱插件
 插件名 lightbox
