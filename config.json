@@ -7,7 +7,7 @@
     "GMEEK_VERSION":"last",
     "homeUrl":"http://quan.120322.xyz",
     "script":"<script>document.getElementById('cmButton').click();</script>",
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>'>"
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"
 }
 
 
