@@ -22,9 +22,11 @@
 
 看不懂没关系 <del>，因为需要看懂的人一定能看懂，看不懂的人不需要看懂</del>。
 
-视频中讲到了代理和VPN两种方法，因为VPN并不合法，所以这里不做推荐。
-我推荐使用 Watt Toolkit ，此应用是合法合规的，并且支持全平台。
+视频中讲到了代理和VPN两种方法。
+我推荐使用 Watt Toolkit ，此应用支持全平台。
 [点击蓝字跳转官网](https://steampp.net/)
+通过官网下载安装，然后使用网络加速功能。
+记得把GitHub选项勾上。
 
 
 ## 账号注册
@@ -46,38 +48,49 @@
 
      再填一下基本信息就ok了，不填直接退出来也行。
 
-     这里我没有截图，大家可以看一看 [墨抒颖 的文章](https://www.cnblogs.com/moshuying/p/15367181.html)
+     这里我没有截图也不具体，大家可以看一看 [这篇文章(https://www.cnblogs.com/moshuying/p/15367181.html)](https://www.cnblogs.com/moshuying/p/15367181.html)
+
 
 ## 登录到博客。
 
 有了账号还需要将这个账号登录到我的博客上。
 这就非常简单了。
+首先打开 我的网站的任意一篇 文章。
 
 先下滑找到评论区，然后点那个大大的绿色按钮。
 `Gmeek-html<img src="https://gitee.com/quan_ge/picture-bed/raw/master/9-2.jpg">`
 
-然后可能会弹出一个页面，问你是否同意，点绿色的就ok了。
-我以前点过就没有弹出来。
+然后可能会弹出一个页面，问你是否同意。
+告诉大家一个口诀，国外网站都用得上“绿色同意，红色删除“。
+这里我以前点过就没有弹出来。
 
 回到博客的评论区，要看到下面的按钮变成comment。
 恭喜你现在就登录完成了。
 
+
 # 结尾废话
-我估计这篇文章写的是屁用没有，算了，凑个数也行吧😂
+我估计这篇文章写的是屁用没有，算了，凑个数也行吧
 网上有很多类似的文章，看不懂的可以去看看别人的。
 
 ## 常见问题
 
 1.
-A：Watt Toolkit不会用怎么办？
-B：自己问百度。
+Watt Toolkit不会用可以自己百度。
 
-2.
+<del>2.
 A：看了也不会怎么办？
 B：凉拌炒鸡蛋
 
-<del>3.
+3.
 A：鸡蛋怎么凉拌？
 B：滚！</del>
+
+2.
+A：能否用操作。
+B：可以，操作大多差不多。
+
+3.
+以后我看能不能换一个网站，把步骤弄简单一些。
+
 
 <!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"}## -->
