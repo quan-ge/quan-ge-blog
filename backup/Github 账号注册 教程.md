@@ -18,9 +18,13 @@
 这里“墙”指的是“国家公共网络监控系统”-GFW
 
 具体的可以看下面这个视频
-`Gmeek-html<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1706405187&bvid=BV1RT42167Vg&cid=1626105302&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460px"></iframe>`
 
-看不懂没关系 <del>，因为需要看懂的人一定能看懂，看不懂的人不需要看懂</del>。
+-------------------------------------
+之前的视频被和谐，看不了了。
+有兴趣看下面这篇文章：
+[GFW是什么？全面解析中国的网络防火墙https://clashhk.com/18124.html](https://clashhk.com/18124.html)
+
+------------------------------------
 
 视频中讲到了代理和VPN两种方法。
 我推荐使用 Watt Toolkit ，此应用支持全平台。
