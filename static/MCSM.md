@@ -7,6 +7,8 @@
 
 账户名：quange
 密码：120322Lsh?
+
+MCQSip: xg.frp.one:17666
  
 面板开关指令:
 systemctl start mcsm-{daemon,web}.service
