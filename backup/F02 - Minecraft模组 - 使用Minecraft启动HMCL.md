@@ -1,6 +1,6 @@
 功能：在我的世界Java游戏内启动HMCL启动器
 作者介绍视频：    【[反向启动]使用Minecraft启动HMCL】 
-https://www.bilibili.com/video/BV1Cx421S7Gj/?share_source=copy_web&vd_source=709c23c3ad6507d1d4ed2a3f3d070fc8
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1752435643&bvid=BV1Cx421S7Gj&cid=1488077611&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" high_quality=1></iframe>
 
 版本:1.20&1.19
 前置模组: Fabric API, Mod menu
