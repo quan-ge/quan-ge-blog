@@ -40,7 +40,7 @@
 1.  GitHub是一个面向开源及私有软件项目的托管平台，[点击蓝字跳转官网。](https://github.com/)
 
 2.  点击右上角 sign up  前往注册界面
-`Gmeek-html<img src="https://img.picui.cn/free/2025/02/09/67a85770b530e.png">`
+`Gmeek-html<img src="https://img.picui.cn/free/2025/02/09/67a8594223615.png">`
 
 4.  起一个你的用户名，点确定。
 
@@ -64,7 +64,7 @@
 首先打开 我的网站的任意一篇 文章。
 
 先下滑找到评论区，然后点那个大大的绿色按钮。
-`Gmeek-html<img src="https://img.picui.cn/free/2025/02/09/67a8576e4b20c.jpg">`
+`Gmeek-html<img src="https://img.picui.cn/free/2025/02/09/67a8593f68a49.jpg">`
 
 然后可能会弹出一个页面，问你是否同意。
 告诉大家一个口诀，国外网站都用得上“绿色同意，红色删除“。
