@@ -7,6 +7,8 @@ RenpyThief 6.0 游戏一键内嵌汉化工具 支持Unity、RPGMaker、Renpy等�
 
 将游戏本体放入工具内，即可自动翻译。支持大多数游戏引擎。
 
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113326369672739&bvid=BV1N3yGYcEpS&cid=26338526593&p=1&autoplay=0&fjw=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 作者B站：https://space.bilibili.com/314844
 
 ***
