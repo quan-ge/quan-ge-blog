@@ -26,8 +26,7 @@
 -------------------------------------
 之前的视频被和谐，看不了。
 有兴趣看下面这篇文章：
-[GFW是什么？全面解析中国的网络防火墙https://clashhk.com/18124.html](https://clashhk.com/18124.html)
-
+[ 科普 什么是GFW(长城防火墙)? https://www.mlvlog.com/1149.html](https://www.mlvlog.com/1149.html)
 ------------------------------------
 
 视频中讲到了代理和VPN两种方法可以让我们访问GitHub。
