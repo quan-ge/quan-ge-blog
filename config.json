@@ -1,11 +1,11 @@
 {
-    "title":"QUAN的博客",
+    "title":"QUANGE的博客",
     "subTitle":"梦想不会自动实现，行动才是开始🎉<br>每日一言：<p id='hitokoto'></p> ",
-    "avatarUrl":"http://home.quange.us.kg/quan.jpg",
+    "avatarUrl":"https://blogger.quange.dpdns.org/quan.jpg",
     "bottomText":"评论需要“霍格沃兹环境”和github账号，具体看首页教程❤️图片可能加载较慢。❤️转载请注明出处！",
     "i18n":"CN",
     "GMEEK_VERSION":"last",
-    "homeUrl":"http://home.quange.us.kg",
+    "homeUrl":"https://blogger.quange.dpdns.org",
     "script":"<script>document.getElementById('cmButton').click();</script>",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://v1.hitokoto.cn/?encode=js&select=%23hitokoto' defer></script>"
 }
