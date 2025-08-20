@@ -66,16 +66,15 @@
 
 moontv仓库已经被删了，
 
-我不删库号容易没。所以换成网盘
+我不删库号容易没。所以换成网盘了
+
 
 https://www.alipan.com/s/c6FQsBKdpj3
 
 提取码：8dw4
 
-
-
-来自123云盘的分享：MoonTV配置文件
-
-链   接：https://www.123912.com/s/dtIijv-B5V3d
+https://www.123912.com/s/dtIijv-B5V3d
 
 提取码：quan
+
+https://drive.google.com/file/d/1kzLnoMb3Sba2Fxavul0gsdCwNA8w3wxy/view?usp=sharing
