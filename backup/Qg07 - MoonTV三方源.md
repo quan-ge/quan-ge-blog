@@ -61,3 +61,21 @@
 把文件下载下来，覆盖MoonTV根目录的原文件
 
 然后重启就能用了
+
+# 8.20 附加
+
+moontv仓库已经被删了，
+
+我不删库号容易没。所以换成网盘
+
+https://www.alipan.com/s/c6FQsBKdpj3
+
+提取码：8dw4
+
+
+
+来自123云盘的分享：MoonTV配置文件
+
+链   接：https://www.123912.com/s/dtIijv-B5V3d
+
+提取码：quan
